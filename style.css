@@ -30,6 +30,7 @@ color:black;
 background-color:yellow;
 background-image:url(Fond.jpg);
 background-position:center center;
+ background-repeat:no-repeat;
 }
 
 }
